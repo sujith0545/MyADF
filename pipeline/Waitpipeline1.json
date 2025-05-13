@@ -4,11 +4,12 @@
 		"activities": [
 			{
 				"name": "Wait1",
+				"description": "fxgfxfcxg",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
-					"waitTimeInSeconds": 1
+					"waitTimeInSeconds": 8
 				}
 			}
 		],
